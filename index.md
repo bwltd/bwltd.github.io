@@ -4,7 +4,7 @@ Specialising in SAP Technology Consultancy Services, with over 13 years SAP expe
 * SAP Technical Architecture
 * SAP Technical Delivery
 * SAP Project Management
-* SAP Basis
+* SAP Basis & Infrastructure
 
 
 ### Contact
